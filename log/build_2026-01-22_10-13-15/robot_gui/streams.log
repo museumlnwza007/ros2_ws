@@ -1,0 +1,33 @@
+[1.258s] Invoking command in '/home/chawanvit/ros2_ws/src/robot_gui': PYTHONPATH=/home/chawanvit/build/robot_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chawanvit/install/robot_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/robot_gui build --build-base /home/chawanvit/build/robot_gui/build install --record /home/chawanvit/build/robot_gui/install.log --single-version-externally-managed install_data
+[1.927s] running egg_info
+[1.931s] creating ../../../build/robot_gui/robot_gui.egg-info
+[1.932s] writing ../../../build/robot_gui/robot_gui.egg-info/PKG-INFO
+[1.932s] writing dependency_links to ../../../build/robot_gui/robot_gui.egg-info/dependency_links.txt
+[1.932s] writing entry points to ../../../build/robot_gui/robot_gui.egg-info/entry_points.txt
+[1.932s] writing requirements to ../../../build/robot_gui/robot_gui.egg-info/requires.txt
+[1.932s] writing top-level names to ../../../build/robot_gui/robot_gui.egg-info/top_level.txt
+[1.932s] writing manifest file '../../../build/robot_gui/robot_gui.egg-info/SOURCES.txt'
+[1.936s] reading manifest file '../../../build/robot_gui/robot_gui.egg-info/SOURCES.txt'
+[1.936s] writing manifest file '../../../build/robot_gui/robot_gui.egg-info/SOURCES.txt'
+[1.941s] running build
+[1.941s] running build_py
+[1.941s] creating /home/chawanvit/build/robot_gui/build
+[1.941s] creating /home/chawanvit/build/robot_gui/build/lib
+[1.942s] creating /home/chawanvit/build/robot_gui/build/lib/robot_gui
+[1.945s] copying robot_gui/__init__.py -> /home/chawanvit/build/robot_gui/build/lib/robot_gui
+[1.945s] running install
+[1.945s] running install_lib
+[1.945s] creating /home/chawanvit/install/robot_gui/lib/python3.10/site-packages/robot_gui
+[1.945s] copying /home/chawanvit/build/robot_gui/build/lib/robot_gui/__init__.py -> /home/chawanvit/install/robot_gui/lib/python3.10/site-packages/robot_gui
+[1.945s] byte-compiling /home/chawanvit/install/robot_gui/lib/python3.10/site-packages/robot_gui/__init__.py to __init__.cpython-310.pyc
+[1.945s] running install_data
+[1.945s] creating /home/chawanvit/install/robot_gui/share/ament_index
+[1.945s] creating /home/chawanvit/install/robot_gui/share/ament_index/resource_index
+[1.945s] creating /home/chawanvit/install/robot_gui/share/ament_index/resource_index/packages
+[1.945s] copying resource/robot_gui -> /home/chawanvit/install/robot_gui/share/ament_index/resource_index/packages
+[1.946s] copying package.xml -> /home/chawanvit/install/robot_gui/share/robot_gui
+[1.946s] running install_egg_info
+[1.952s] Copying ../../../build/robot_gui/robot_gui.egg-info to /home/chawanvit/install/robot_gui/lib/python3.10/site-packages/robot_gui-0.0.0-py3.10.egg-info
+[1.952s] running install_scripts
+[1.989s] writing list of installed files to '/home/chawanvit/build/robot_gui/install.log'
+[2.038s] Invoked command in '/home/chawanvit/ros2_ws/src/robot_gui' returned '0': PYTHONPATH=/home/chawanvit/build/robot_gui/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chawanvit/install/robot_gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/robot_gui build --build-base /home/chawanvit/build/robot_gui/build install --record /home/chawanvit/build/robot_gui/install.log --single-version-externally-managed install_data
